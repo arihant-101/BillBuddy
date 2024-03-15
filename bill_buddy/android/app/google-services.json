@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014283995484",
+    "project_id": "billbuddy102",
+    "storage_bucket": "billbuddy102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014283995484:android:9671482223d41df34fd999",
+        "android_client_info": {
+          "package_name": "com.example.bill_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrecAtCt_x7ukQlSF8h8JmjdNGDEZ3GlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
